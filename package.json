@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://Mazharali123.github.io/MLSA",
+  "homepage": "http://Mazharali123.github.io/portfolio1",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Mazharali123.github.io/MLSA'",
+    "build-gh": "parcel build --public-url 'https://Mazharali123.github.io/portfolio1'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
